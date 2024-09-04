@@ -1,4 +1,4 @@
-# ### Catppuccin Mocha 😺 Тема за MangaDex 📚 
+# Catppuccin Mocha 😺 Тема за MangaDex 📚 
 
 ### Catppuccin Mocha Green 😺 Тема за MangaDex 📚  
 
